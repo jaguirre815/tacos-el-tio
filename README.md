@@ -15,6 +15,10 @@ The entire game is bundled in `index.html`; it also opens locally without a serv
 - Phone: rotate to landscape, drag on the left to move, tap Acción to interact.
   Use the numbered buttons to change plates. Pantalla enables fullscreen when supported.
 - Sales earn coins. Open Mejoras to buy speed, prep plates, and a permanent helper (45 coins).
+- At 25% patience remaining, customers throw a bottle, napkin holder, or shoe once.
+  Dodge the marked circle. Hits slow you by 45% for 3 seconds without dropping food.
+  Serving during the warning cancels the throw; pause freezes throws and recovery.
+- Landscape controls support phones and iPads, with separate space for score and timer.
 - Upgrades save in the current browser. Moving from a local file to the website
   starts a separate browser save.
 
